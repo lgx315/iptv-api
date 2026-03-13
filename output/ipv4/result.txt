@@ -1,0 +1,24 @@
+🕘️更新时间,#genre#
+2026-03-13 15:17:52,http://74.91.26.218:82/live/cctv4hd.m3u8
+
+📺央视频道,#genre#
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+
+📡卫视频道,#genre#
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+
+☘️广东频道,#genre#
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州竞赛,http://8.138.7.223/tv/gzjs.m3u8

@@ -1,0 +1,15 @@
+🕘️更新时间,#genre#
+2026-03-13 15:17:52,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+
+📺央视频道,#genre#
+
+📡卫视频道,#genre#
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+
+☘️广东频道,#genre#
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
